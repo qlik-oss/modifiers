@@ -20,7 +20,7 @@
     "/dist"
   ],
   "engines": {
-    "npm": ">=9.9.3",
+    "npm": ">=10.9.0",
     "node": ">=v16.20.2"
   },
   "main": "dist/qlik-modifiers.js",
